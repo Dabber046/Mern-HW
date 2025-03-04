@@ -2,6 +2,7 @@
   "extends": "../tsconfig.json",
   "compilerOptions": {
     /* Modules */
+    "module": "NodeNext" /* Set the module option to NodeNext */,
     "rootDir": "src" /* Specify the root folder within your source files. */,
 
     /* Emit */
