@@ -182,73 +182,43 @@ Additionally, you’ll need to complete the following tasks in each of these fro
 
 * `LoginForm.tsx`: Replace the `loginUser()` functionality imported from the `API` file with the `LOGIN_USER` mutation functionality.
 
-## Grading Requirements
 
-> **Note:** If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count toward your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria:
 
-### Technical Acceptance Criteria: 40%
+Attributions
 
-* Satisfies all of the preceding acceptance criteria plus the following:
+This document outlines the sources of code and concepts used within this repository. Proper attribution is given to maintain academic integrity and transparency.
 
-  * Has an Apollo Server that uses GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
+Sources of External Code and Influence
 
-  * Use an Apollo Server and apply it to the Express.js server as middleware.
+1. Bootcamp Repository
 
-  * Include schema settings for resolvers and typeDefs as outlined in the Challenge instructions.
+Portions of this code were adapted from the official bootcamp repository provided as part of the curriculum.
 
-  * Modify the existing authentication middleware to work in the context of a GraphQL API.
+Direct references to bootcamp code are commented within the source files where applicable.
 
-  * Use an Apollo Provider so that the application can communicate with the Apollo Server.
+2. Instructor Explanations
 
-  * Application must be deployed to Render.
+Some implementations are based on verbal explanations and guidance given by instructors during class sessions.
 
-### Deployment: 32%
+These concepts were understood, modified, and applied in the project.
 
-* Application deployed at live URL.
+No direct code was copied; rather, instructor guidance helped shape the logic and approach.
 
-* Application loads with no errors.
+3. Online Resources (Google Searches & Books)
 
-* Application GitHub URL submitted.
+Code snippets or ideas were referenced from various programming-related books and online sources found through Google searches.
 
-* GitHub repository contains application code.
+When applicable, specific references are provided within inline comments in the code.
 
-### Application Quality: 15%
+Directly copied snippets (if any) have been modified and cited accordingly.
 
-* User experience is intuitive and easy to navigate.
+Attribution Methodology
 
-* User interface style is clean and polished.
+Inline Comments: Specific attributions are included as comments within the relevant source code files.
 
-* Application resembles the mock-up functionality provided in the Challenge instructions.
+This Document: Provides an overview of all external sources and influences used in this project.
 
-### Repository Quality: 13%
+By documenting these sources, I aim to ensure full transparency and compliance with academic integrity policies.
 
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains high-quality README file with description, screenshot, and link to the deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Jared J Mindock -2025-
