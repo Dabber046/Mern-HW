@@ -250,5 +250,40 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Attributions
+
+This document outlines the sources of code and concepts used within this repository. Proper attribution is given to maintain academic integrity and transparency.
+
+Sources of External Code and Influence
+
+1. Bootcamp Repository
+
+Portions of this code were adapted from the official bootcamp repository provided as part of the curriculum.
+
+Direct references to bootcamp code are commented within the source files where applicable.
+
+2. Instructor Explanations
+
+Some implementations are based on verbal explanations and guidance given by instructors during class sessions.
+
+These concepts were understood, modified, and applied in the project.
+
+No direct code was copied; rather, instructor guidance helped shape the logic and approach.
+
+3. Online Resources (Google Searches & Books)
+
+Code snippets or ideas were referenced from various programming-related books and online sources found through Google searches.
+
+When applicable, specific references are provided within inline comments in the code.
+
+Directly copied snippets (if any) have been modified and cited accordingly.
+
+Attribution Methodology
+
+Inline Comments: Specific attributions are included as comments within the relevant source code files.
+
+This Document: Provides an overview of all external sources and influences used in this project.
+
+By documenting these sources, I aim to ensure full transparency and compliance with academic integrity policies.
+
+Jared J Mindock -2025-
